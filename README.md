@@ -3,7 +3,7 @@
 Примеры с изображениями находятся в папках.
 
 1. [Генерация изображений](1_Eight_generated_imgs)
-2. [Генерация по верх depth map и normal map](2_ControlNet_x_Blender)
+2. [Генерация depth map и normal map и генерация по ним](2_ControlNet_x_Blender)
 3. [Fine-Tuning (Дообучение) Модели](3_Fine_Tuning)
 4. [Использование модели на стороне](4_External_Models)
 
